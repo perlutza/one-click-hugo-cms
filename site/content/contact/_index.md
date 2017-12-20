@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logoexcv.png
 contact_entries:
   - heading: Locație
     text: '3153 Lynn Avenue, South San Francisco, California 94080'
