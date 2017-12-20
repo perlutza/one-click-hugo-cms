@@ -5,14 +5,14 @@ image: /img/abstract.jpg
 blurb:
   heading: Despre noi
   text: >
-    Suntem o echipă de profesioniști și oferim spre închiriere clienților noștri
-    mini excavatoare de cea mai bună calitate pentru diferite lucrări.
+    Suntem o echipă de profesioniști și avem spre închiriere mini excavatoare de
+    cea mai bună calitate pentru diferite lucrări.
 intro:
   heading: Ce oferim
   text: >-
-    Mini excavatoarele pot veni în sprijinul dvs. pentru lucrări de amenajare
-    peisagistică, săpături fundații și canalizare, excavare pentru instalare
-    cabluri și multe alte tipuri de lucrări.
+    Mini excavatoarele noastre pot veni în sprijinul dvs. pentru lucrări de
+    amenajare peisagistică, săpături fundații și canalizare, excavare pentru
+    instalare cabluri și multe alte tipuri de lucrări.
 products:
   - image: /img/roti.png
     text: |-
