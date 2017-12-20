@@ -14,10 +14,10 @@ intro:
     peisagistică, săpături fundații și canalizare, excavare pentru instalare
     cabluri și multe alte tipuri de lucrări.
 products:
-  - image: ''
+  - image: /img/curoti.png
     text: |
       Excavatoare cu șenile
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/cusenile.png
     text: |
       Excavatoare cu roți
   - {}
