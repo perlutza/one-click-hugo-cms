@@ -6,7 +6,7 @@ blurb:
   heading: Despre noi
   text: >-
     Suntem o echipă de profesioniști și oferim spre închiriere clienților noștri
-    mini excavatoare de cea mai bună calitate!
+    mini excavatoare de cea mai bună calitate.
 
     Mini excavatoarele pot veni în sprijinul dvs. pentru lucrări de amenajare
     peisagistică, săpături fundații și canalizare, excavare pentru instalare
@@ -19,17 +19,16 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: ''
     text: |-
       Excavatoare cu șenile
       Detalii tehnice:
       Preț:
   - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: |-
+      Excavatoare cu roți
+      Detalii tehnice:
+      Preț:
   - {}
 values:
   heading: Our values
