@@ -22,7 +22,7 @@ products:
     text: |2
          Excavatoare cu șenile                                       
       Modele și detalii tehnice
-  - {}
+  - image: /img/abstract2.jpg
 values:
   heading: Our values
   text: >-
